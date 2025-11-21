@@ -40,7 +40,6 @@ This process continues until all banks reach a net amount of zero.
 * Conceptually representable as a **Max-Flow (Ford–Fulkerson) model**, but implemented using an efficient iterative approach.
 
 ## **Algorithm Flow** 
-## Algorithm Flow
 
 1. Read all banks and their supported payment modes.  
 2. Read all transactions and build a directed graph.  
@@ -64,5 +63,5 @@ This process continues until all banks reach a net amount of zero.
 5. Route unmatched pairs via the World Bank.
 6. Print the final minimized settlement plan.
 
-## **Thank You**
+Thank You
 
